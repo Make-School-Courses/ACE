@@ -4,26 +4,27 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Artistic and Creative Expression (ACE) 
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Develop competencies in creative thinking, artistic skills, and in the recognition of the diversity of artistic expressions;
+- Apply creative thinking and artistic practice to unique self or collective expressions;
+- Design, create, and present or practice and perform works of art for an audience;
+- Reflect or articulate on the creative process, product, performance, artistic skill, aesthetics, or creative practice.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [ACE 1000: ENGL 2305] |  Introduction to Creative Writing | 4.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[ACE 1000: ENGL 2305] - Introduction to many forms of creative writing, including poetry, fiction, and drama writing. Study of key terms and concepts in the writing process and practice in peer workshops.
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[ACE 1000: ENGL 2305]:https://drive.google.com/file/d/12Rr519vNsswUSNV0qWy6TTzoD0wil1y5/view?usp=sharing
 
 
 ## Make School Course Policies
