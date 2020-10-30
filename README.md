@@ -17,14 +17,14 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Title          |                 Units                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  [ENGL 2305] |  Introduction to Creative Writing | 4.00 Units |
+| Class |          Title          |       Semester - Section       | Units |
+|:-----:|:----------------------:|:---------------------------:|:--------|
+|  ENGL 2305 |  Introduction to Creative Writing | [Fall 2020] | 4.00 Units |
 
-[ENGL 2305] - Introduction to many forms of creative writing, including poetry, fiction, and drama writing. Study of key terms and concepts in the writing process and practice in peer workshops.
+ENGL 2305 - Introduction to many forms of creative writing, including poetry, fiction, and drama writing. Study of key terms and concepts in the writing process and practice in peer workshops.
 
 
-[ENGL 2305]:https://drive.google.com/file/d/12Rr519vNsswUSNV0qWy6TTzoD0wil1y5/view?usp=sharing
+[Fall 2020]:https://drive.google.com/file/d/12Rr519vNsswUSNV0qWy6TTzoD0wil1y5/view?usp=sharing
 
 
 ## Make School Course Policies
