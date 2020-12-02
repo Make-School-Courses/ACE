@@ -19,8 +19,8 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-|  ENGL 2305 |  Introduction to Creative Writing | [Fall 2020] | 4.00 Units |
 |  ACE 1000 |  Introduction to Creative Writing | Spring 2021 | 4.00 Units |
+|  ENGL 2305 |  Introduction to Creative Writing | [Fall 2020] | 4.00 Units |
 
 ENGL 2305 - Introduction to many forms of creative writing, including poetry, fiction, and drama writing. Study of key terms and concepts in the writing process and practice in peer workshops.
 
